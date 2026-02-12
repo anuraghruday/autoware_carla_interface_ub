@@ -1,0 +1,16 @@
+autoware_carla_interface_ub
+==========================
+
+This package is a modified version of `autoware_carla_interface` from the
+Autoware Universe project (https://github.com/autowarefoundation/autoware.universe),
+customized for the University at Buffalo, CAVAS Lab - Digital Twin project.
+
+Original authors:
+  - Muhammad Raditya GIOVANNI <mradityagio@gmail.com>
+  - Maxime CLEMENT <maxime.clement@tier4.jp>
+
+Original license: Apache License 2.0
+
+Modifications by:
+  - Anurag Hruday <anurag.hruday@gmail.com>
+    University at Buffalo, CAVAS Lab - Digital Twin
